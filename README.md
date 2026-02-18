@@ -87,9 +87,6 @@ flowchart LR
 ---
 
 ## 📈 GitHub signals 
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bahadrky&show_icons=true)
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahadrky" />
