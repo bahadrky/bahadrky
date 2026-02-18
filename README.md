@@ -88,7 +88,7 @@ flowchart LR
 
 ## 📈 GitHub signals 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahadrky&show_icons=true" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bahadrky&show_icons=true)
 </p>
 
 <p align="center">
