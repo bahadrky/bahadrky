@@ -11,9 +11,8 @@ Goal: In 15 seconds, visitors understand what you build and how you think.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> •
-  <a href="https://YOUR-PORTFOLIO/">Portfolio</a> •
-  <a href="mailto:YOUR@MAIL.COM">Email</a>
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/bahadir-kayhan-31a55a1b2/)">LinkedIn</a> •
+  <a href="mailto:kayhan1901@gmail.com">Email</a>
 </p>
 
 <p align="center">
@@ -87,7 +86,7 @@ flowchart LR
 
 ---
 
-## 📈 GitHub signals (optional)
+## 📈 GitHub signals 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" />
 </p>
